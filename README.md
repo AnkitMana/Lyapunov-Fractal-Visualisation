@@ -23,12 +23,7 @@ The following gallery demonstrates the progression from 1D parameter landscapes 
 Initial results showed horizontal "stripes," representing 1D bifurcation points without parameter interaction.
 ![Initial Stripes](images/image_12b067.png)
 
-### 2. The Symmetrical Web
-*X-axis: Phase $r_A$ | Y-axis: Phase $r_B$*
-By allowing the X and Y axes to interact through the alternating $A^6B^6$ sequence, a symmetrical "web" emerges.
-![Web Geometry](images/image_129a60.jpg)
-
-### 3. High-Resolution "Swirl" Attractor
+### 2. High-Resolution "Swirl" Attractor
 *Resolution: 2000+ DPI | $b=3.85$*
 The final "Macro" render uses tight color clipping to isolate the stable filaments, revealing the organic complexity of the stability node.
 ![Final Swirl](images/image_1225c1.jpg)
