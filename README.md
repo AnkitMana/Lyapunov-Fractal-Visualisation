@@ -21,12 +21,12 @@ The following gallery demonstrates the progression from 1D parameter landscapes 
 ### 1. The 1D Landscape (Initial Test)
 *X-axis: Phase ($r$) | Y-axis: Growth ($b$)*
 Initial results showed horizontal "stripes," representing 1D bifurcation points without parameter interaction.
-![Initial Stripes](images/image_12b067.png)
+![Initial Stripes](images/InitialStripes.png)
 
 ### 2. High-Resolution "Swirl" Attractor
 *Resolution: 2000+ DPI | $b=3.85$*
 The final "Macro" render uses tight color clipping to isolate the stable filaments, revealing the organic complexity of the stability node.
-![Final Swirl](images/image_1225c1.jpg)
+![Final Swirl](images/FinalSwirl.jpeg)
 
 ## 📖 How to Run
 1. Clone the repository:
